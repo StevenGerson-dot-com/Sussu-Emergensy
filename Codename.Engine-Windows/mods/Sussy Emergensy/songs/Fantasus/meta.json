@@ -1,0 +1,17 @@
+{
+	"customValues": {
+		"fpchar": "Blue"
+	},
+	"color": "#5090C5",
+	"opponentModeAllowed": false,
+	"icon": "Blue",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Fantasus",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 155
+}

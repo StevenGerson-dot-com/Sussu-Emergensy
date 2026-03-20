@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character y="300" sprite="bf" flipX="true" isPlayer="true" icon="bf" color="#30B0D1">
+	<anim name="idle" anim="Idle"/>
+	<anim name="singDOWN" anim="BFDown" x="9" y="-59"/>
+	<anim name="singRIGHT" anim="Right" x="-31" y="-2"/>
+	<anim name="singLEFT" anim="Left" x="27" y="7"/>
+	<anim name="singUP" anim="Up" x="-40" y="39"/>
+	<anim name="Dead" anim="Dead" x="34" y="-137"/>
+	<anim name="Yeah" anim="Yeah" x="-19" y="2"/>
+	<anim name="singUP-alt" anim="AltUp" x="-15" y="30"/>
+	<anim name="singUPmiss" anim="MissUp" x="-38" y="42"/>
+	<anim name="singDOWN-alt" anim="AltDown" x="-7" y="-80"/>
+	<anim name="singLEFT-alt" anim="AltLeft" x="77" y="-5"/>
+	<anim name="singRIGHT-alt" anim="AltRight" x="-25" y="-16"/>
+	<anim name="singDOWNmiss" anim="MissDown" x="13" y="-48"/>
+	<anim name="singLEFTmiss" anim="MissLeft" x="29" y="15"/>
+	<anim name="singRIGHTmiss" anim="MissRight" x="-35" y="16"/>
+</character>
