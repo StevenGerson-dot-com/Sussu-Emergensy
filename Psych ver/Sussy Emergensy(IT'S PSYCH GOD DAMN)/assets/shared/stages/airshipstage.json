@@ -1,0 +1,69 @@
+{
+	"objects": [
+		{
+			"x": -852,
+			"y": -579,
+			"scale": [
+				1,
+				1
+			],
+			"image": "bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_opponent": [
+		0,
+		-50
+	],
+	"girlfriend": [
+		400,
+		130
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "blue"
+	},
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"boyfriend": [
+		1044,
+		226
+	],
+	"opponent": [
+		-118,
+		228
+	],
+	"hide_girlfriend": true,
+	"directory": "week1",
+	"camera_speed": 1,
+	"defaultZoom": 0.85,
+	"stageUI": "normal",
+	"camera_boyfriend": [
+		0,
+		0
+	]
+}
