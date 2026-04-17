@@ -1,7 +1,7 @@
 <!DOCTYPE codename-engine-stage>
-<stage folder="stages/airship1/" name="Airship1">
+<stage folder="stages/Airship1/" name="Airship1">
 	<sprite x="-820.243865315812" sprite="BG" y="-480.832607651345" type="none" name="bg"/>
-	<girlfriend/>
+	<girlfriend alpha="0" x="483" scroll="1" y="200"/>
 	<dad x="-74.3688670393191" y="226.125186599218"/>
 	<boyfriend x="1084.45007918162" y="264.818937879961"/>
 </stage>

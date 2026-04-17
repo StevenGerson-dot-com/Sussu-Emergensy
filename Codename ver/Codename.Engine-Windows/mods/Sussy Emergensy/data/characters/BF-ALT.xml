@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character y="300" sprite="bf" flipX="true" isPlayer="true" icon="bf" color="#30B0D1">
+<character y="300" sprite="bf-alt" flipX="true" isPlayer="true" icon="bf" color="#30B0D1">
 	<anim name="idle" anim="Idle"/>
 	<anim name="singDOWN" anim="BFDown" x="9" y="-59"/>
 	<anim name="singRIGHT" anim="Right" x="-31" y="-2"/>

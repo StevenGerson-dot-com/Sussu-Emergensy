@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-800" y="-80" scale="0.6" antialiasing="false" flipX="true" isPlayer="true" icon="bf" color="#30B0D1">
+	<anim name="idle" anim="bf-sus idle" fps="20"/>
+	<anim name="singDOWN" anim="bf-sus singDOWN0" y="-2.86" fps="20"/>
+	<anim name="singRIGHT" anim="bf-sus singRIGHT0" fps="20"/>
+	<anim name="singLEFT" anim="bf-sus singLEFT0" fps="20"/>
+	<anim name="singUP" anim="bf-sus singUP0" fps="20"/>
+	<anim name="bf-sus singUPmiss" anim="bf-sus singUPmiss" fps="20"/>
+	<anim name="bf-sus singLEFTmiss" anim="bf-sus singLEFTmiss" fps="20"/>
+	<anim name="bf-sus singDOWNmiss" anim="bf-sus singDOWNmiss" fps="20"/>
+	<anim name="bf-sus singRIGHTmiss" anim="bf-sus singRIGHTmiss" fps="20"/>
+</character>
